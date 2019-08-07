@@ -1,0 +1,58 @@
+[
+    {
+        "id":1,
+        "icon":"briefcase",
+        "store":"Grocery Market, Apple 6kg",
+        "price":"- R$ 16.90",
+        "local":"Daily Shopping"
+    },
+    {
+        "id":2,
+        "icon":"gift",
+        "store":"Boné 940 New Eengland ",
+        "price":"- R$ 60.90",
+        "local":"New Era Store"
+    },
+    {
+        "id":3,
+        "icon":"percent",
+        "store":"Transferency",
+        "price":"- R$ 300.00",
+        "local":"Internet Bank"
+    },
+    {
+        "id":4,
+        "icon":"play",
+        "store":"Netflix",
+        "price":"- R$ 28.90",
+        "local":"Netflix"
+    },
+    {
+        "id":5,
+        "icon":"briefcase",
+        "store":"Grocery Market, Apple 6kg",
+        "price":"- R$ 16.90",
+        "local":"Daily Shopping"
+    },
+    {
+        "id":6,
+        "icon":"smartphone",
+        "store":"Cellphone",
+        "price":"- R$ 20.00",
+        "local":"Tim Store"
+    },
+    {
+        "id":7,
+        "icon":"trending-down",
+        "store":"Resale",
+        "price":"- R$ 1500.00",
+        "local":"Shopping"
+    },
+    {
+        "id":8,
+        "icon":"bar-chart",
+        "store":"Market",
+        "price":"- R$ 50.90",
+        "local":"Cine"
+    }
+]
